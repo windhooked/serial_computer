@@ -11,6 +11,8 @@ https://lcamtuf.substack.com/p/now-youre-thinking-with-relays
 
 https://web.cecs.pdx.edu/~harry/Relay/index.html
 
+http://www.simplecpudesign.com/relay_computer/index.html
+
 https://tams-www.informatik.uni-hamburg.de/applets/hades/webdemos/05-switched/20-relays/zuseadd.html
 
 http://www.bitsavers.org/components/motorola/14500/MC14500B_Industrial_Control_Unit_Handbook_1977.pdf
