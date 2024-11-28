@@ -7,6 +7,8 @@ Maybe it is time to build a simple serial machine, for starters to calcuate Pi a
 
 Looks like using Zuse Z1 adder might be a good start :)
 
+https://hackaday.io/project/162246-simple-relay-alu/log/155707-description-of-the-logic-functions
+
 https://lcamtuf.substack.com/p/now-youre-thinking-with-relays
 
 https://web.cecs.pdx.edu/~harry/Relay/index.html
